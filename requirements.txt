@@ -1,0 +1,17 @@
+torch
+torchvision
+torchsummary
+torchinfo
+timm
+segmentation-models-pytorch
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tqdm
+pingouin
+pytorch-grad-cam
+openpyxl

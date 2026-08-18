@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models / weights
+*.pth
+*.pt
+
+# Data / results (not tracked)
+Result/
+Fig/
+Model/
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
